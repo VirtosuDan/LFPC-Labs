@@ -1,0 +1,11 @@
+S---->bA
+S---->B
+A---->a
+A---->aS
+A---->bAaAb
+B---->AC
+B---->bS
+B---->aAa
+C---->epsilon
+C---->AB
+E---->BA
